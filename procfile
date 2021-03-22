@@ -1,0 +1,1 @@
+web: ./graphhopper.sh -a web -i central-america.pbf
